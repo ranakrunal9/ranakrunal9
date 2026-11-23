@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🔭 Full Stack Technical Lead with 15+ years building multi-tenant, event-driven SaaS (logistics, healthcare, e-commerce, marketplaces)
-💬 Ask me about NestJS / Node.js, React / Next.js / Angular, Kafka / RabbitMQ microservices, WebRTC / WebSocket real-time apps
-🌱 Currently exploring AI-assisted engineering: Claude Code, Cursor, MCP
+🔭 Full Stack Technical Lead with 15+ years building multi-tenant, event-driven SaaS (logistics, healthcare, e-commerce, marketplaces)  
+💬 Ask me about NestJS / Node.js, React / Next.js / Angular, Kafka / RabbitMQ microservices, WebRTC / WebSocket real-time apps  
+🌱 Currently exploring AI-assisted engineering: Claude Code, Cursor, MCP  
 🤝 Open to remote Tech Lead / Engineering Manager roles (Europe / Middle East overlap)
 
 ## 🌐 Socials:
